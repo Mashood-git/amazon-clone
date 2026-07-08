@@ -1,4 +1,8 @@
-# 🛒 Amazon Clone
+# Amazon Clone
+
+🌐 **Live Demo:** https://mashood-git.github.io/amazon-clone/
+
+📂 **Repository:** https://github.com/Mashood-git/amazon-clone
 
 A frontend clone of the Amazon homepage built using **HTML**, **CSS**, and **JavaScript**. This project was created to practice responsive web design, Flexbox, and basic JavaScript DOM manipulation.
 
